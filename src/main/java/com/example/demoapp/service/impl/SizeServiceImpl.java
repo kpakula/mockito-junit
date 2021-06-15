@@ -1,6 +1,5 @@
 package com.example.demoapp.service.impl;
 
-import com.example.demoapp.domain.Image;
 import com.example.demoapp.domain.Size;
 import com.example.demoapp.repository.SizeRepository;
 import com.example.demoapp.service.SizeService;

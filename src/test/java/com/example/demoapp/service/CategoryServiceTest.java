@@ -1,9 +1,6 @@
 package com.example.demoapp.service;
 
 import com.example.demoapp.domain.Category;
-import com.example.demoapp.domain.Image;
-import com.example.demoapp.domain.Size;
-import com.example.demoapp.domain.User;
 import com.example.demoapp.repository.CategoryRepository;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;

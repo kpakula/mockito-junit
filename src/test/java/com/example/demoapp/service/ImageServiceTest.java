@@ -2,9 +2,11 @@ package com.example.demoapp.service;
 
 import com.example.demoapp.domain.Image;
 import com.example.demoapp.domain.Size;
-import com.example.demoapp.domain.User;
 import com.example.demoapp.repository.ImageRepository;
-import org.junit.jupiter.api.*;
+import org.junit.jupiter.api.AfterEach;
+import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
